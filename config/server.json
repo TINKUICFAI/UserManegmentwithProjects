@@ -1,0 +1,6 @@
+{
+  "jwtSecret": "userAuth@123456",
+  "baseUrl": "http://localhost:8080",
+  "port": 8080,
+  "fcmServerkey": ""
+}
